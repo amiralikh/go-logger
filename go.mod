@@ -1,3 +1,3 @@
-module github.com/amiralikh/go-logger
+module github.com/amiralikh/logger
 
 go 1.20
