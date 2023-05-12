@@ -13,3 +13,7 @@ func Error(data interface{}) {
 func Warning(data interface{}) {
 	fmt.Println("Warning error: ", data)
 }
+
+func fatal(data interface{}) {
+	println("Fatal error: ", data)
+}
