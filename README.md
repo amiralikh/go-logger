@@ -1,6 +1,4 @@
-Certainly! Here's an example of a README file for the logger module:
-
-# Logger Module
+# Logger Module for GOLANG
 
 The Logger module is a logging utility for Go that provides logging levels (info, error, warning, debug) and the ability to customize the output to the console or a file. Each log entry contains the level, message, and timestamp.
 
