@@ -20,7 +20,7 @@ Import the Logger module into your Go code:
 import (
     "log"
     "os"
-    "github.com/yourusername/logger"
+    "github.com/amiralikh/logger"
 )
 ```
 
